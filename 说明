@@ -1,0 +1,2 @@
+本项目简单地描述了tomcat运行javaweb的原理，详情参考http://blog.csdn.net/zxr1521904712/article/details/51165474。
+TomcatConf中，第一行是要部署的servlet项目目录（项目路径/bin），第二行是你自己的真实Servlet类名（相对于项目的路径）。
